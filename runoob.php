@@ -1,3 +1,4 @@
 <？php
-echo 'runoob';
+echo 'runoob'dddddZZzz;
+zzwq
 ?>
